@@ -4,7 +4,8 @@
 % ------------------------------------------------------------------------------
 % If you use the dataset please cite:
 %
-% Syed Tanweer Shah Bukhari, Wajahat Mahmood Qazi, Jonathan Andrew Ware, Yasar Ayaz, Syed Kamran Ahmad, Mehmood Hussain
+% Syed Tanweer Shah Bukhari, Wajahat Mahmood Qazi, Jonathan Andrew Ware, 
+% Yasar Ayaz, Syed Kamran Ahmad, Mehmood Hussain
 % Pedagogical Learning Object Grounding for Robot Perceptions,
 % Journal Name, 2019
 %
