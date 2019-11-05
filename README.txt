@@ -2,12 +2,21 @@
 % IM Robotics Object Affordance Dataset
 % Version 1.0
 % ------------------------------------------------------------------------------
-% If you use the dataset please cite:
+% The dataset is built upon "Object Affordance Recognition for HRI" cited as;
 %
-% Syed Tanweer Shah Bukhari, Wajahat Mahmood Qazi, Jonathan Andrew Ware, 
-% Yasar Ayaz, Syed Kamran Ahmad, Mehmood Hussain
-% Pedagogical Learning Object Grounding for Robot Perceptions,
-% Journal Name, 2019
+%    J. Mi, S. Tang, Z. Deng, M. Görner, and J. Zhang. Object Affordance 
+%    based Multimodal Fusion for Natural Human-Robot Interaction.   
+%    Cognitive Systems Research, 2018. doi:10.1016/j.cogsys.2018.12.010.
+% 
+%  The dataset is being extended with additional class i.e. Wearable and new
+%  objects
+%
+%   If you use the dataset please cite:
+%
+%   Syed Tanweer Shah Bukhari, Wajahat Mahmood Qazi, Jonathan Andrew Ware, 
+%   Yasar Ayaz, Syed Kamran Ahmad, Mehmood Hussain
+%   Pedagogical Learning Object Grounding for Robot Perceptions,
+%   Journal Name, 2019
 %
 % Any bugs or questions, please email stsbukhari AT gmail DOT com.
 % ==============================================================================
