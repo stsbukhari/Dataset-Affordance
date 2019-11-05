@@ -8,7 +8,7 @@
 %    based Multimodal Fusion for Natural Human-Robot Interaction.   
 %    Cognitive Systems Research, 2018. doi:10.1016/j.cogsys.2018.12.010.
 % 
-%  The dataset is being extended with additional class i.e. Wearable and new
+%  It is being extended with additional class i.e. Wearable and addition of
 %  objects
 %
 %   If you use the dataset please cite:
