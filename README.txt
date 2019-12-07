@@ -6,7 +6,7 @@
 %
 %    J. Mi, S. Tang, Z. Deng, M. Görner, and J. Zhang. Object Affordance 
 %    based Multimodal Fusion for Natural Human-Robot Interaction.   
-%    Cognitive Systems Research, 2018. doi:10.1016/j.cogsys.2018.12.010.
+%    Cognitive Systems Research, 2019. doi:10.1016/j.cogsys.2018.12.010.
 % 
 %  It is being extended with additional class i.e. Wearable and addition of
 %  objects
