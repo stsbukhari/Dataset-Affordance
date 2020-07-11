@@ -14,9 +14,8 @@
 %   If you use the dataset please cite:
 %
 %   Syed Tanweer Shah Bukhari, Wajahat Mahmood Qazi, Jonathan Andrew Ware, 
-%   Yasar Ayaz, Syed Kamran Ahmad, Mehmood Hussain
-%   Pedagogical Learning Object Grounding for Robot Perceptions,
-%   Journal Name, 2019
+%   Yasar Ayaz, Pedagogical approach to affordance learning using machine imaginations,
+%   Cognitive System Research, vol: ,  2020
 %
 % Any bugs or questions, please email stsbukhari AT gmail DOT com.
 % ==============================================================================
