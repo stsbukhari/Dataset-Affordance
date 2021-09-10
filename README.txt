@@ -13,9 +13,9 @@
 %
 %   If you use the dataset please cite:
 %
-%   Syed Tanweer Shah Bukhari, Wajahat Mahmood Qazi, Jonathan Andrew Ware, 
-%   Yasar Ayaz, Pedagogical approach to affordance learning using machine imaginations,
-%   Cognitive System Research, vol: ,  2020
+%   Syed Tanweer Shah Bukhari, Wajahat Mahmood Qazi, 
+%   Perceptual and Semantic Processing in Cognitive Robots. Electronics 2021, 10, 2216
+%   https://doi.org/10.3390/electronics10182216
 %
 % Any bugs or questions, please email stsbukhari AT gmail DOT com.
 % ==============================================================================
