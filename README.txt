@@ -2,14 +2,6 @@
 % IM Robotics Object Affordance Dataset
 % Version 1.0
 % ------------------------------------------------------------------------------
-% The dataset is built upon "Object Affordance Recognition for HRI" cited as;
-%
-%    
-%   
-%    
-% 
-%  
-%  
 %
 %   If you use the dataset please cite:
 %
